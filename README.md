@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rys</h1>
-<h3 align="center">Informatics Student at UKSW, Indonesia</h3>
+<h3 align="center">💻 **Informatics Engineering Student** at [Universitas Kristen Satya Wacana](https://www.uksw.edu/)</h3>
 
 <p align="center">
   </a>
@@ -8,7 +8,9 @@
   </a>
 </p>
 ---
-###💻 **Informatics Engineering Student** at [Universitas Kristen Satya Wacana](https://www.uksw.edu/)  <br>🌱 **Currently learning**: Web Development | Mobile Apps | Data Science  <br>🚀 **Passionate about**: Open Source, AI, and Website  <br>🔧 **Tech Stack**:  <br>- 💡 **Languages**: Python, Java, JavaScript, PHP  <br>- 🛠️ **Tools**: Git, VS Code, Android Studio, Figma  <br>- 📚 **Frameworks**: Laravel  
+###
+  🌱 **Currently learning**: Web Development | Mobile Apps | Data Science  
+  🚀 **Passionate about**: Open Source, AI, and Website   
 
 ---
 
