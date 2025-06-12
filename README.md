@@ -2,12 +2,13 @@
 <h3 align="center">Informatics Student at UKSW, Indonesia</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
   </a>
   <a href="https://instagram.com/yourusername" target="_blank">
     <img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
+---
+###💻 **Informatics Engineering Student** at [Universitas Kristen Satya Wacana](https://www.uksw.edu/)  <br>🌱 **Currently learning**: Web Development | Mobile Apps | Data Science  <br>🚀 **Passionate about**: Open Source, AI, and Website  <br>🔧 **Tech Stack**:  <br>- 💡 **Languages**: Python, Java, JavaScript, PHP  <br>- 🛠️ **Tools**: Git, VS Code, Android Studio, Figma  <br>- 📚 **Frameworks**: Laravel  
 
 ---
 
