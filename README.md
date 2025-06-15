@@ -6,9 +6,10 @@
   🌱 <strong>Currently learning</strong>: Web Development | Mobile Apps | Data Science<br>
   🚀 <strong>Passionate about</strong>: Open Source, AI, and Website Development<br>
   🔧 <strong>Tech Stack</strong>: Python • Java • JavaScript • PHP • Laravel
+    <div align="center">
+      <img src="https://raw.githubusercontent.com/RYSNAN/RYSNAN/main/cats.jpeg" width="50%" />
+    </div>
 </p>
-
----
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rys.nando) 
