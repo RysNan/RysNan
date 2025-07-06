@@ -42,7 +42,6 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RYSNAN&theme=shadow_blue&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" width="45%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RYSNAN&theme=shadow_blue&hide_border=false" width="45%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RYSNAN&theme=shadow_blue&hide_border=false&layout=compact" width="45%">
 </div>
@@ -52,8 +51,6 @@
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
-  <br>
-  <img src="https://visitcount.itsvg.in/api?id=RYSNAN&icon=3&color=0">
 </div>
 
 <p align="center"> 
